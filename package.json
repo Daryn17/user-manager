@@ -1,5 +1,5 @@
 {
-  "name": "admin-user",
+  "name": "user-manager",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
